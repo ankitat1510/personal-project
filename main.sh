@@ -1,5 +1,5 @@
 #!/bin/bash
 
 #its test file
-cat './firstfile' './secondfile'
+cat './firstfile.txt' './secondfile.txt'
 echo "Files displayed successfully"
